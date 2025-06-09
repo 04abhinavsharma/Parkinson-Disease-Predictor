@@ -14,15 +14,11 @@ Uses the publicly available Parkinson’s Disease dataset containing voice signa
 How to Run
 Install required packages:
 
-bash
-Copy
-Edit
+`bash
 pip install -r requirements.txt
 Run the main script:
 
-bash
-Copy
-Edit
+`bash
 python parkinson_prediction.py
 Results
 Achieved classification accuracy of 89.74% 
